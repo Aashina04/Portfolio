@@ -16,7 +16,7 @@ export const Hero = () => {
           Contact Me
         </a>
         <a
-            href="/AashinaSaxena_VITBhopal.pdf"
+            href="/AashinaSaxena_Resume.pdf"
             target="_blank"
             rel="noreferrer"
             className={styles.contactBtn}
