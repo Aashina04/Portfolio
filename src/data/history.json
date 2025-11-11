@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Web Development Internship Program",
+    "organisation": "Technook",
+    "startDate": "April, 2023",
+    "endDate": "May, 2023",
+    "experiences": [
+      "Developed and deployed responsive web interfaces using React.js, Tailwind CSS, and Node.js as part of the Web Development Internship Program.",
+      "Collaborated with a team of developers to design and optimize user-friendly front-end components, ensuring high-quality UI and UX standards.",
+      "Integrated RESTful APIs and implemented data-driven features to enhance functionality and maintain scalability.",
+      "Improved website load speed and accessibility by optimizing front-end performance and reusable components.",
+      "Demonstrated strong teamwork, problem-solving, and communication skills while contributing to sprint-based project goals."
+    ],
+    
+    "certificateImage1": "history/internshipCertificate.jpg",
+    "certificateImage2": "history/teachnook course completion certificate-Aashina Saxena .jpg"
+  },
+  {
+    "role": "Décor Co-Lead",
+    "organisation": "Meraki – The Fine Arts Club, VIT Bhopal",
+    "startDate": "November, 2022",
+    "endDate": "May, 2025",
+    "experiences": [
+      "Directed décor design and execution for major college events such as ARTRUN (200+) and KALAKRITI (120+), leading a creative team of 10 members.",
+      "Exhibited strong leadership, planning, and collaboration skills by coordinating across design, logistics, and management teams to deliver seamless event experiences.",
+      "Applied innovative thinking and artistic vision to create visually immersive installations and stage décor themes.",
+      "Enhanced campus engagement and event aesthetics by merging artistic creativity with structured project execution.",
+      "Cultivated a culture of teamwork, mentorship, and accountability within the décor and design team."
+    ]
+  }
+]

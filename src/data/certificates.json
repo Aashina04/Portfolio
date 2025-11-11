@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Acquring Data",
+    "issuer": "FutureSkills Prime",
+    "date": "September 2025",
+    "imageSrc": "certificates/AcquiringData_FutureSkills_Accenture.jpg"
+  },
+  {
+    "title": "Marketing Analytics",
+    "issuer": "NPTEL",
+    "date": "May 2025",
+    "imageSrc": "certificates/Marketing Analytics_NPTEL.jpg"
+  },
+  {
+    "title": "MERN Full Stack Certification Program",
+    "issuer": "Ethnus",
+    "date": "April 2025",
+    "imageSrc": "certificates/GHXYTGFT_MernStack.jpg"
+  },
+  {
+    "title": "AWS Certified Solutions Architect- Associate Certification Program",
+    "issuer": "Ethnus",
+    "date": "April 2025",
+    "imageSrc": "certificates/HJSJB8ZT_SolutionsArchitect.jpg"
+  },
+  {
+    "title": "Databases for Developers:Foundations",
+    "issuer": "Oracle",
+    "date": "August 2024",
+    "imageSrc": "certificates/Databases for Developers_Foundations.jpg"
+  },    
+  {
+    "title": "Postman API Fundamentals Student Expert",
+    "issuer": "Postman",
+    "date": "August 2024",
+    "imageSrc": "certificates/Postman API Fundamentals Student Expert certificate.png",
+    "link": "https://badges.parchment.com/public/assertions/ES8-IHj2R8SfTn3QBWaQxw?identity__email=aashinasaxena14@gmail.com"
+  },
+  {
+    "title": "Cloud Computing",
+    "issuer": "NPTEL",
+    "date": "May 2024",
+    "imageSrc": "certificates/cloudcomputing.jpg"
+  },
+  {
+    "title": "OOPS Concepts in C++",
+    "issuer": "Great Learning",
+    "date": "May 2024",
+    "imageSrc": "certificates/oops_cpp.jpg",
+    "link": "https://www.mygreatlearning.com/certificate/TNEQSBZP"
+  },
+  {
+    "title": "The Bits and Bytes of Computer Networking",
+    "issuer": "Coursera",
+    "date": "December 2023",
+    "imageSrc": "certificates/Coursera certificate Bits and Bytes of Computer Networking.jpg",
+    "link": "https://www.coursera.org/account/accomplishments/verify/M2KS3R8ECYW6"
+  },
+  {
+    "title": "Internship Completion Certificate – Web Development",
+    "issuer": "Technook",
+    "date": "June 2023",
+    "imageSrc": "certificates/TEACHNOOK Internship Completion Certificate _ Aashina Saxena..jpg"
+  },
+  {
+    "title": "Course Completion Certificate – Web Development",
+    "issuer": "Technook",
+    "date": "June 2023",
+    "imageSrc": "certificates/teachnook course completion certificate-Aashina Saxena .jpg"
+  },
+  {
+    "title": "Python Essentials",
+    "issuer": "Vidyarthi",
+    "date": "May 2023",
+    "imageSrc": "certificates/Python essentials.jpg"
+  }
+]

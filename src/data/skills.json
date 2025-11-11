@@ -1,0 +1,29 @@
+{
+  "technicalSkills": [
+    { "title": "HTML", "imageSrc": "skills/html.png" },
+    { "title": "CSS", "imageSrc": "skills/css.png" },
+    { "title": "JavaScript", "imageSrc": "skills/javascript.png" },
+    { "title": "React.js", "imageSrc": "skills/react.png" },
+    { "title": "Node.js", "imageSrc": "skills/node.png" },
+    { "title": "Express.js", "imageSrc": "skills/express.png" },
+    { "title": "MongoDB", "imageSrc": "skills/mongodb.png" },
+    { "title": "SQL", "imageSrc": "skills/sql.png" },
+    { "title": "Bootstrap", "imageSrc": "skills/bootstrap.png" },
+    { "title": "Tailwind CSS", "imageSrc": "skills/tailwind.png" },
+    { "title": "Java", "imageSrc": "skills/java.png" },
+    { "title": "Git & GitHub", "imageSrc": "skills/git.png" },
+    { "title": "Postman", "imageSrc": "skills/postman.png" },
+    { "title": "Database Management System (DBMS)", "imageSrc": "skills/dbms.png" },
+    { "title": "Object-Oriented Programming (OOPs)", "imageSrc": "skills/oops.png" }
+  ],
+
+  "softSkills": [
+    { "title": "Leadership", "imageSrc": "skills/leadership.png" },
+    { "title": "Team Collaboration", "imageSrc": "skills/teamwork.png" },
+    { "title": "Problem Solving", "imageSrc": "skills/problem_solving.png" },
+    { "title": "Creativity", "imageSrc": "skills/creativity.png" },
+    { "title": "Time Management", "imageSrc": "skills/time_management.png" },
+    { "title": "Adaptability", "imageSrc": "skills/adaptability.png" },
+    { "title": "Communication", "imageSrc": "skills/communication.png" }
+  ]
+}

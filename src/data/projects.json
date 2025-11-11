@@ -1,0 +1,35 @@
+[
+  {
+    "title": "GreenCart",
+    "description": "A full-stack grocery delivery web application designed to simplify online shopping. GreenCart allows users to browse items, manage their cart, place secure orders, and track deliveries in real time. Built with a responsive frontend and optimized backend, it includes secure payment integration using Razorpay and a dynamic admin dashboard for managing orders and inventory.",
+    "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "Razorpay", "Tailwind CSS"],
+    "demo": "https://green-cart-eosin-phi.vercel.app/",
+    "source": "https://github.com/Aashina04/GreenCart"
+  },
+  {
+    "title": "Shopoholic - MERN Inventory Manager",
+   
+    "description": "An inventory management system built using the MERN stack, designed to streamline product management operations. Shopoholic supports full CRUD functionality, secure authentication, and a responsive admin dashboard. The platform enables real-time stock tracking, user-friendly navigation, and efficient product management for small-scale e-commerce solutions.",
+    "skills": ["MongoDB", "Express.js", "React.js", "Node.js", "Bootstrap", "REST API"],
+    "demo": "https://shopoholic-lemon.vercel.app/",
+    "source": "https://github.com/Aashina04/Shopoholic-Mern-Ethnus"
+  },
+  {
+    "title": "Shopping Website Clone",
+    "description": "A modern, responsive eCommerce website clone built to replicate a real online shopping experience. Developed using HTML, CSS, and JavaScript, it showcases clean UI design principles, smooth animations, and optimized page layouts. The project focuses on frontend design, user interactivity, and responsive elements that adapt seamlessly across all devices.",
+    "skills": ["HTML", "CSS", "JavaScript", "Responsive Design", "UI/UX"],
+    "source": "https://github.com/Aashina04/Shopping-Website-Clone"
+  },
+  {
+    "title": "Music Player",
+    "description": "A browser-based interactive music player that lets users play, pause, skip, and manage songs from a customizable playlist. Built using HTML, CSS, and JavaScript, this project focuses on creating a visually appealing and functional interface with audio controls, smooth transitions, and engaging user interactions.",
+    "skills": ["HTML", "CSS", "JavaScript", "Audio API", "Frontend Design"],
+    "source": "https://github.com/Aashina04/Music-Player"
+  },
+  {
+    "title": "Weathertastic – The Weather App",
+    "description": "A real-time weather forecasting application that fetches live meteorological data using the OpenWeather API. Users can search any city to get instant updates on temperature, humidity, and wind conditions. The app is designed with a minimal and elegant UI for clarity and smooth user experience.",
+    "skills": ["HTML", "CSS", "JavaScript", "API Integration", "OpenWeather API"],
+    "source": "https://github.com/Aashina04/Weathertastic-theweatherapp"
+  }
+]

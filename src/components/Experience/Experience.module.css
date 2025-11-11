@@ -1,0 +1,153 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-accent);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* Timeline Layout */
+.timeline {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding-left: 30px;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(var(--color-accent), transparent);
+}
+
+.timelineItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+  position: relative;
+  animation: fadeInUp 0.8s ease forwards;
+}
+
+/* Timeline content box */
+.timelineContent {
+  background: rgba(25, 55, 109, 0.5);
+  border-radius: 10px;
+  padding: 25px 30px;
+  flex: 1;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  transition: transform 0.3s ease, background 0.3s ease;
+  overflow: hidden;
+}
+
+.timelineContent:hover {
+  transform: translateY(-6px);
+  background: linear-gradient(
+    135deg,
+    rgba(25, 55, 109, 0.8),
+    rgba(0, 230, 200, 0.25)
+  );
+}
+
+.timelineContent h3 {
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: 6px;
+}
+
+.date {
+  font-size: 16px;
+  color: var(--color-accent);
+  margin-bottom: 10px;
+}
+
+.timelineContent ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.timelineContent li {
+  margin-bottom: 5px;
+}
+
+/* Certificates Styling */
+.certificateContainer {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.certificateImage {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.certificateImage:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.45);
+}
+
+/* Animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design */
+@media screen and (max-width: 830px) {
+  .timeline {
+    padding-left: 15px;
+  }
+
+  .timeline::before {
+    left: 10px;
+  }
+
+  .timelineContent {
+    padding: 18px;
+  }
+
+  .timelineContent h3 {
+    font-size: 20px;
+  }
+
+  .certificateContainer {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .certificateImage {
+    max-width: 90%;
+  }
+}
